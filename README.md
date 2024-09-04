@@ -4,6 +4,9 @@
 
 Fin da bambino, sono stato affascinato dal mondo dell'informatica e ho sempre avuto una curiosità insaziabile su come funzionano le cose. Questo interesse mi ha portato a diventare un **Full Stack Developer**, dove posso mettere in pratica la mia passione per la tecnologia e la risoluzione di problemi complessi. Amo costruire applicazioni che non solo funzionano bene, ma offrono anche un'esperienza utente fluida e intuitiva.
 
+## 🔧 Tecnologie e Strumenti
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,vue,vite,php,mysql,laravel,git" />
+
 ## ⚡ Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MicheleRaisa95&theme=radical" alt="GitHub Streak Stats" />
@@ -24,6 +27,7 @@ Fin da bambino, sono stato affascinato dal mondo dell'informatica e ho sempre av
 - **GitHub**: [MicheleRaisa95](https://github.com/MicheleRaisa95)
 
 ![Snake animation](https://github.com/MicheleRaisa95/MicheleRaisa95/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
