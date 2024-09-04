@@ -14,8 +14,8 @@ Fin da bambino, sono stato affascinato dal mondo dell'informatica e ho sempre av
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 🎓 Certificazioni e Corsi
-- **Google IT Support Professional Certificate** – [Coursera]([link](https://www.credly.com/badges/67809844-ab54-4d26-b8b0-4e1da589cddd/linked_in_profile))
-- **Full Stack Web Development Bootcamp** – [Boolean](link)
+- **Google IT Support Professional Certificate** – [Coursera]((https://www.credly.com/badges/67809844-ab54-4d26-b8b0-4e1da589cddd/linked_in_profile)
+- **Full Stack Web Development Bootcamp** – [Boolean]
   
 ## 📫 Contatti
 - **LinkedIn**: [Michele Raisa](https://www.linkedin.com/in/micheleraisa)
