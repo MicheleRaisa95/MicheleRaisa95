@@ -1,4 +1,4 @@
-https://visitor-badge.laobi.icu/badge?page_id=MicheleRaisa95.MicheleRaisa95
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MicheleRaisa95.MicheleRaisa95" />
 
 # Ciao! Sono Michele Raisa 🚀
 
