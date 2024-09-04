@@ -13,6 +13,10 @@ Fin da bambino, sono stato affascinato dal mondo dell'informatica e ho sempre av
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+## 🎓 Certificazioni e Corsi
+- **Google IT Support Professional Certificate** – [Coursera](link)
+- **Full Stack Web Development Bootcamp** – [Boolean](link)
+
 - **LinkedIn**: [Michele Raisa](https://www.linkedin.com/in/micheleraisa)
 - **GitHub**: [MicheleRaisa95](https://github.com/MicheleRaisa95)
 
