@@ -4,20 +4,27 @@
 
 Fin da bambino, sono stato affascinato dal mondo dell'informatica e ho sempre avuto una curiosità insaziabile su come funzionano le cose. Questo interesse mi ha portato a diventare un **Full Stack Developer**, dove posso mettere in pratica la mia passione per la tecnologia e la risoluzione di problemi complessi. Amo costruire applicazioni che non solo funzionano bene, ma offrono anche un'esperienza utente fluida e intuitiva.
 
-## 🔧 Tecnologie e Strumenti
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,vue,vite,php,mysql,laravel,git" />
+## ⚡ Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MicheleRaisa95&theme=radical" alt="GitHub Streak Stats" />
+</p>
 
-## 🎓 Certificazioni e Corsi
-- **Google IT Support Professional Certificate** – [Coursera](https://www.credly.com/badges/67809844-ab54-4d26-b8b0-4e1da589cddd/linked_in_profile)
-- **Full Stack Web Development Bootcamp** – [Boolean]
-  
+## 📊 GitHub Profile Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MicheleRaisa95&show_icons=true&theme=radical" alt="Michele's GitHub Stats" />
+</p>
+
+## 🔥 Linguaggi più usati
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleRaisa95&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ## 📫 Contatti
 - **LinkedIn**: [Michele Raisa](https://www.linkedin.com/in/micheleraisa)
 - **GitHub**: [MicheleRaisa95](https://github.com/MicheleRaisa95)
 
- ![Snake animation](https://github.com/MicheleRaisa95/MicheleRaisa95/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MicheleRaisa95/MicheleRaisa95/blob/output/github-contribution-grid-snake.svg)
 
-![Michele's GitHub stats](https://github-readme-stats.vercel.app/api?username=MicheleRaisa95&show_icons=true&theme=radical)
 
 
 <!--
