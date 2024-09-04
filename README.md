@@ -17,7 +17,7 @@ Fin da bambino, sono stato affascinato dal mondo dell'informatica e ho sempre av
 
   ![Snake animation](https://github.com/MicheleRaisa95/MicheleRaisa95/blob/output/github-contribution-grid-snake.svg)
 
-![Michele's GitHub stats](https://github-readme-stats.vercel.app/api?username=MicheleRaisa95&show_icons=true&theme=radical)
+![Snake animation](https://github.com/MicheleRaisa95/MicheleRaisa95/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
