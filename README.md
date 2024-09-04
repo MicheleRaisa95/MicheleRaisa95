@@ -13,10 +13,6 @@ Fin da bambino, sono stato affascinato dal mondo dell'informatica e ho sempre av
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🎯 Filosofia di sviluppo
-Credo che un buon software debba essere scalabile, manutenibile e fornire un'esperienza utente ottimale. Amo lavorare con tecnologie moderne e adottare approcci innovativi per risolvere problemi complessi.
-
-## 📫 Contatti
 - **LinkedIn**: [Michele Raisa](https://www.linkedin.com/in/micheleraisa)
 - **GitHub**: [MicheleRaisa95](https://github.com/MicheleRaisa95)
 
