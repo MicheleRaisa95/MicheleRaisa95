@@ -1,3 +1,5 @@
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MicheleRaisa95.MicheleRaisa95" />
+
 # Ciao! Sono Michele Raisa 🚀
 
 Fin da bambino, sono stato affascinato dal mondo dell'informatica e ho sempre avuto una curiosità insaziabile su come funzionano le cose. Questo interesse mi ha portato a diventare un **Full Stack Developer**, dove posso mettere in pratica la mia passione per la tecnologia e la risoluzione di problemi complessi. Amo costruire applicazioni che non solo funzionano bene, ma offrono anche un'esperienza utente fluida e intuitiva.
